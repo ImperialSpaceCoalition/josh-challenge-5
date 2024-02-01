@@ -15,8 +15,7 @@ Work Day Scheduler is a simple calendar app designed to help you schedule your w
 
 ## Getting Started
 
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in your preferred web browser.
+1. follow the link to the deployed application here: 
 
 ## Usage
 

@@ -1,6 +1,7 @@
 # josh-challenge-5
 
 # Work Day Scheduler
+![Alt text](./scheduler.png "Optional Title")
 
 ## Description
 
@@ -15,7 +16,7 @@ Work Day Scheduler is a simple calendar app designed to help you schedule your w
 
 ## Getting Started
 
-1. follow the link to the deployed application here: 
+1. follow the link to the deployed application here: https://imperialspacecoalition.github.io/josh-challenge-5/
 
 ## Usage
 
